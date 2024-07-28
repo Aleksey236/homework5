@@ -7,3 +7,5 @@ mutable_list.append(False)
 print(mutable_list)
 mutable_list.remove(1)
 print(mutable_list)
+mutable_list [0] = 300
+print(mutable_list)
